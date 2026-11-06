@@ -1,0 +1,4 @@
+interface:
+  display_name: "FABMP价值分析与证据准备"
+  short_description: "从行业、产品特点、客户类型与职位推导客户价值，并列出所需证据与验证方法"
+  default_prompt: "使用 $teco-fabmp-value-analysis。你好，请你告诉我，需要提供什么信息给你。"
